@@ -7,7 +7,7 @@ do
 	read -rp "Δώσε έναν αριθμό : " number
 	if [ $number -eq 5 ];
 	then
-		echo "O αριθμός $number τερματίζει το βρόγχο"
+		echo "O αριθμός $number τερματίζει το βρόχο"
 		break
 	else
 		echo "Έδωσες τον αριθμό $number"
